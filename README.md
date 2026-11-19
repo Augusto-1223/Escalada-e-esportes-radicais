@@ -11,6 +11,6 @@ Tema: 38 Escalada e Esportes Radicais
 - CSS externo simples e responsivo   
 
 ## Validação W3C
-`https://validator.w3.org/nu`  `imagens/validacao.png`:
+`imagens/validacao.png`
 
 (imagens/validacao.png)
