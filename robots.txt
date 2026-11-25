@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://augusto-1223.github.io/Escalada-e-esportes-radicais/sitemap.xml
