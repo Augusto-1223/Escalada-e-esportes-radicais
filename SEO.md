@@ -17,10 +17,9 @@
 
 | Métrica Lighthouse (Mobile) | Antes | Depois | Meta / Observação |
 | :--- | :---: | :---: | :--- |
-| **SEO** | *(inserir nota antes)* | *(inserir nota depois)* | Meta: `>= 95` |
-| **Acessibilidade** | *(inserir nota antes)* | *(inserir nota depois)* | Meta: `>= 90` |
-| **Desempenho (Performance)** | *(inserir nota antes)* | *(inserir nota depois)* | Otimizado com `.webp`, dimensões e `loading="lazy"` |
-| **Práticas Recomendadas** | *(inserir nota antes)* | *(inserir nota depois)* | — |
+| **SEO** | *(91)* | *(100)* | Meta: `>= 95` |
+| **Acessibilidade** | *(94)* | *(96)* | Meta: `>= 90` |
+
 
 ## 4. Evidências e Prints
 - Validação Schema.org: `![Validação JSON-LD](imagens/validacao-schema.png)`
