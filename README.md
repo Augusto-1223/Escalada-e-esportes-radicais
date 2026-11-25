@@ -10,10 +10,14 @@ Tema: 38 Escalada e Esportes Radicais
 - Marcações de time, address, strong e em, mais atalho "Pular para o conteúdo"   
 - CSS externo simples e responsivo   
 
-## Validação W3C
+## Validações
+-Validação W3C
 ![Validação W3C](imagens/validacao.png)
+-Validação JSON-LD
 ![Validação JSON-LD](imagens/validacao-schema.png)
+-Lighthouse Antes
 ![Lighthouse Antes](imagens/lighthouse-antes.png)
+-Lighthouse Depois
 ![Lighthouse Depois](imagens/lighthouse-depois.png)
 
 
