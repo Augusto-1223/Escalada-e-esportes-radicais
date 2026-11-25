@@ -17,6 +17,7 @@ Tema: 38 Escalada e Esportes Radicais
 ![Validação JSON-LD](imagens/validacao-schema.png)
 -Lighthouse Antes
 ![Lighthouse Antes](imagens/lighthouse-antes.png)
+
 -Lighthouse Depois
 ![Lighthouse Depois](imagens/lighthouse-depois.png)
 
