@@ -12,8 +12,8 @@ Tema: 38 Escalada e Esportes Radicais
 
 ## Validação W3C
 ![Validação W3C](imagens/validacao.png)
-- Validação Schema.org: `![Validação JSON-LD](imagens/validacao-schema.png)`
-- Lighthouse antes: `![Lighthouse Antes](imagens/lighthouse-antes.png)`
-- Lighthouse depois: `![Lighthouse Depois](imagens/lighthouse-depois.png)`
+![Validação JSON-LD](imagens/validacao-schema.png)
+![Lighthouse Antes](imagens/lighthouse-antes.png)
+![Lighthouse Depois](imagens/lighthouse-depois.png)
 
 
